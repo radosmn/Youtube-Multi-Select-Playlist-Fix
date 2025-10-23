@@ -7,6 +7,14 @@
 Allows you to save to multiple playlists on youtube without closing the window after the first click
 <br>
 <br>
+<br>
+<br>
+**Changes Compared to Original:**<br>
+<br>
+- The original repository provided the extension as a 7z archive file. This fork extracts the source files for easier access and modification.<br>
+- Added individual files: manifest.json, content.js, icon16.png, icon48.png, icon128.png.<br>
+- Removed: youtube-playlist-fix v2.7z<br>
+- Users can now directly load the extension from the source files without extracting the archive.<br>
 **To Install:**<br>
 <br>
 Download the zip file (the "Source Code (zip)" file at the bottom of the Releases page, under "Assets")<br>
