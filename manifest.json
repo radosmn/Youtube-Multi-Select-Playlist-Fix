@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Playlist Multi-Select Fix",
+  "version": "1.1",
+  "description": "Keeps the YouTube 'Save to playlist' menu open for multiple selections",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
