@@ -9,8 +9,8 @@ Allows you to save to multiple playlists on youtube without closing the window a
 <br>
 **To Install:**<br>
 <br>
-Download the zip file<br>
-Extract it to a folder on your computer<br>
+Download the zip file (the "Source Code (zip)" file at the bottom of the Releases page, under "Assets")<br>
+Extract it to a folder on your computer (you'll have to extract the first folder, then extract the zip inside of that. the folder within the second zip gives you the extension folder to load)<br>
 Open Chrome and go to chrome://extensions/<br>
 Enable "Developer mode" (toggle in top-right)<br>
 Click "Load unpacked"<br>
